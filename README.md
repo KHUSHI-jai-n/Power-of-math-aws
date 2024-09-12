@@ -4,6 +4,9 @@ This project is a simple web application that performs exponentiation using AWS 
 
 Architecture:
 
+
+![diagram-export-9-12-2024-10_49_20-PM](https://github.com/user-attachments/assets/feb56006-cdaa-46de-a028-bcccf6832b90)
+
 Features:
 
 1. Frontend hosted with AWS Amplify
